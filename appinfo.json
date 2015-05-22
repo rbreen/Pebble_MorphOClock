@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "remco@remcobreen.nl",
+    "longName": "MorphOclock",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "MorphOclock",
+    "uuid": "73483dd2-4874-43e7-a0b1-55328c314b60",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
